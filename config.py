@@ -7,6 +7,6 @@ GITHUB_BASE_URL = 'https://github.com'
 GITHUB_MAX_RETRY = 10
 SLACK_WEBHOOKURL = 'https://hooks.slack.com/services/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'
 TELEGRAM_CONFIG = {
-    "token": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-    "chat_id": -999999999999999
+    "token": "AAGoA2gH15xmL9OKJfr2vwgZg2uWXRdv5mw",
+    "chat_id": 1106993957
 }
