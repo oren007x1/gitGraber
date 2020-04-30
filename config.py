@@ -5,7 +5,7 @@ GITHUB_API_COMMIT_URL = 'https://api.github.com/repos/'
 GITHUB_SEARCH_PARAMS = '&sort=indexed&o=desc'
 GITHUB_BASE_URL = 'https://github.com'
 GITHUB_MAX_RETRY = 10
-SLACK_WEBHOOKURL = 'https://hooks.slack.com/services/TXXXXXXXX/BXXXXXXXX/XXXXXXXXXXXXXXXXXXXXXXX'
+SLACK_WEBHOOKURL = 'https://hooks.slack.com/services/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'
 TELEGRAM_CONFIG = {
     "token": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
     "chat_id": -999999999999999
